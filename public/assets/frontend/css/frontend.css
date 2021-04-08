@@ -1,0 +1,15 @@
+.expired {
+    color: #ff0202;
+}
+.used {
+    color: #018201;
+}
+.not_used {
+    color: #1d643b;
+}
+table.dataTable {
+    font-size: 12px;
+}
+td .btn.btn-xs.btn-primary {
+    padding: 6px;
+}
